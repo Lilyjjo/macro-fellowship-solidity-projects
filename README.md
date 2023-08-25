@@ -1,6 +1,6 @@
 ## MacroDAO Project Repo
 
-This repo contains the completed course work for Macro's solidity bootcamp, all completed by hand from scratch.
+This repo contains the completed course work for Macro's solidity bootcamp.
 Completed May-July 2022 by Lily Johnson.
 
 The projects include:
